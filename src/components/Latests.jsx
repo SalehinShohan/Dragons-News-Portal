@@ -10,7 +10,6 @@ const Latests = () => {
                 <Link to="/news">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis minima, adipisci aut nihil dolor?</Link>
                 <Link to="/news">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis minima, adipisci aut nihil dolor?</Link>
                 <Link to="/news">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis minima, adipisci aut nihil dolor?</Link>
-                
             </Marquee>
         </div>
     );
